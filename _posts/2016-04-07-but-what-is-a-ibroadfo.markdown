@@ -14,4 +14,4 @@ i don't currently have any pets, which makes me sad.
 
 remember to like and subscribe!
 
-  [^1] http://www.easydamus.com/character.html actually says i'm a Chaotic Good Monk rather than a Warrior
+  [^1] [What D&D Character Am I?](http://www.easydamus.com/character.html) actually says i'm a Chaotic Good Monk rather than a Warrior
