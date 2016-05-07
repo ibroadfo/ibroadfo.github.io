@@ -7,6 +7,7 @@ You may have noticed that ember does a bunch of things magically for you. This i
 (NB this is orthogonal to ember-cli's blueprint generation)
 
 ## Routing
+
 #### Route Handlers
 
 You don't need to actually define route handlers for 75% of your routes.
