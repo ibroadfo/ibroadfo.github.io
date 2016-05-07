@@ -68,3 +68,7 @@ The default component template is `{{yield}}` so that it can be used block-style
 ## Etc
 
 Let me know what other in-memory generated magic you find!
+
+## Acknowledgements
+
+Thanks are due to [Alisdair](https://twitter.com/alisdair) for proof-reading and reminding me about components.
