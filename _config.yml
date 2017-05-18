@@ -17,3 +17,6 @@ github_username:  ibroadfo
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
